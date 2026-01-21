@@ -1,0 +1,5 @@
+example repository from hailo
+
+link: https://github.com/hailo-ai/hailo-rpi5-examples/tree/main
+
+needed for hailo enviroment
